@@ -1,5 +1,7 @@
 # Pi Atelier
 
+> **Note:** This is a fork of [michaelmjhhhh/pi-atelier](https://github.com/michaelmjhhhh/pi-atelier).
+
 A responsive status rail and live activity sidebar for [Pi](https://pi.dev).
 
 Pi Atelier replaces Pi's default footer with a calm Status Rail and adds an optional docked sidebar for live agent, turn, tool, context, session, and project information.
